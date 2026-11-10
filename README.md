@@ -4,7 +4,7 @@
 
 **MSc Data Science and Machine Learning · University College London**
 
-<sub>Mathematics & Statistics background · interested in LLMs and AI agents</sub>
+<sub>Mathematics & Statistics background
 
 </div>
 
