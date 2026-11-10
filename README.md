@@ -1,60 +1,39 @@
-<h1 align="center">Hi there, I'm Junting Zhong 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=MSc+Data+Science+%26+Machine+Learning+%40+UCL;Mathematics+%26+Statistics+background;Exploring+LLMs+%26+AI+Agents" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Junting+Zhong" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/junting-zhong-a38888396"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=jtzjt&color=3b82f6&style=flat" />
-</p>
+**MSc Data Science and Machine Learning · University College London**
 
----
+<sub>Mathematics & Statistics background · interested in LLMs and AI agents</sub>
 
-### 📐 About Me
+</div>
 
-```python
-class JuntingZhong:
-    location   = "London, UK"
-    education  = {
-        "MSc Data Science and Machine Learning": "UCL (2026 – 2027)",
-        "BSc Mathematics and Statistics":       "University of Strathclyde",
-        "BSc Mathematics and Applied Mathematics": "Donghua University",
-    }
-    interests  = ["Large Language Models", "AI Agents", "Machine Learning"]
-    publication = "Information and Computation (2026), with Prof. Sergey Kitaev"
+<br>
 
-    def minimize(self, loss):
-        return "θ* = argmin ℒ(θ)"
-```
+### `> about`
 
-### 📈 Coordinate System
+MSc Data Science and Machine Learning at **UCL**, with a first-class BSc in **Mathematics and Statistics** from the University of Strathclyde.
+Co-authored a paper with Prof. Sergey Kitaev, published in *Information and Computation* (2026).
+Currently exploring **large language models** and **agentic systems**.
 
-<p align="center">
-  <img src="./assets/coordinate.svg" alt="coordinate system" width="90%" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jtzjt&theme=github-compact&hide_border=true&area=true&bg_color=00000000" alt="activity graph" width="95%" />
-</p>
+### `> activity`
 
-### 🛠 Tech Stack
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,r,latex,git,linux,vscode" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jtzjt&theme=github-compact&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jtzjt&theme=minimal&hide_border=true&area=true" />
+  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jtzjt&theme=github-compact&hide_border=true&area=true" width="100%" />
+</picture>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jtzjt&show_icons=true&hide_border=true&bg_color=00000000&title_color=3b82f6&icon_color=f97316&text_color=8b949e" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtzjt&layout=compact&hide_border=true&bg_color=00000000&title_color=3b82f6&text_color=8b949e" />
-</p>
-
-### 🐍 Contribution Snake
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jtzjt/jtzjt/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jtzjt/jtzjt/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/jtzjt/jtzjt/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/jtzjt/jtzjt/output/github-snake-dark.svg" width="100%" />
 </picture>
+
+</div>
